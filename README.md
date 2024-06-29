@@ -1,0 +1,1 @@
+Location service: It connects to a redis server and update live driver location and also fetches nearby driver to a coordinate. Also, instead of redis clients can use mongodb for storing live locations and fetching nearby drivers.
